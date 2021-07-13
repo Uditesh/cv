@@ -2,8 +2,7 @@
 /*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: script-src 'self'
-  X-Content-Type-Options: "nosniff" always
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
-  Feature-Policy: geolocation 'self' https://mystifying-poincare-cd1bad.netlify.app/; microphone 'none'
-  X-Frame-Options: "SAMEORIGIN" always
+  Feature-Policy: geolocation 'self' https://uditesh-cv.netlify.app/; microphone 'none'
