@@ -5,4 +5,3 @@
   X-Frame-Options: SAMEORIGIN
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
-  Feature-Policy: geolocation 'self' https://uditesh-cv.netlify.app/; microphone 'none'
