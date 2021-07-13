@@ -1,9 +1,9 @@
 # a path:
-./index.html
+/*
   # headers for that path:
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: default-src https:
+  Content-Security-Policy: script-src 'self'
   X-Content-Type-Options "nosniff" always;
   Referrer-Policy: no-referrer
   Feature-Policy: geolocation 'self' https://mystifying-poincare-cd1bad.netlify.app/; microphone 'none'
